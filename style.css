@@ -43,7 +43,7 @@ img{
     overflow: hidden;
     margin: 0 auto;
     transform: translateY(25px);
-    transition: 0.5s;
+    transition: 0.9s;
 }
 
 .card__img:hover{
@@ -86,7 +86,7 @@ img{
     border: 1px solid var(--primary-color) ;
     background: transparent;
     border-radius: 18px;
-    transition: 0.5s;
+    transition: 0.9s;
     font-size: larger;
 }
 
@@ -99,3 +99,4 @@ img{
     0 0 50px #00ffd5,
     0 0 100px #00ffd5;
 }
+
